@@ -1,15 +1,14 @@
-import Navbar from "./app/components/navigation";
-import Hero from "./app/components/Hero";
-export default function Page() {
+export default function Home() {
   return (
     <>
-    <div className="bg-green-200">
-      <Navbar/>
-      <Hero/>
-    </div>
-    
-
-
+      <div className="container mx-auto px-4">
+        <h1>Hello word</h1>
+        <p>This is a content to make our page longer</p>
+        <div className="w-full h-screen bg-green-300"></div>
+        <p>
+          Lorem Ipsum is simply dummy text ...
+        </p>
+      </div>
     </>
   );
 }

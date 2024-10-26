@@ -2,14 +2,12 @@
 import React from "react";
 import Link from "next/link";
 import { usePathname} from 'next/navigation';
-import { useRouter } from 'next/navigation';
-// import AP from "default/src/app/app/AP/AP.tsx";
 
 
 
 const Navbar = () => {
   const links = [
-    { name: 'ap', href: '/ap'},
+    { name: 'AP', href: '/AP'},
     { name: 'SAT', href: '/SAT' },
     { name: 'Stats', href: '/Stats'},
     { name: 'About', href: '/'},
