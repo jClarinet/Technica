@@ -17,7 +17,7 @@ const Hero = () => {
         <p className="font-bold text-white">Welcome to StudyBuddy</p>
         <h1>College Bored? Not anymore</h1>
         
-        <Link className="text-xl rounded-full bg-white p-5 " href="/About">About StudyBuddy</Link>
+        <Link className="text-xl rounded-full bg-white p-5 " href="/about">About StudyBuddy</Link>
       </div>
     </section>
       
