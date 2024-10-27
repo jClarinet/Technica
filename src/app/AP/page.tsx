@@ -222,7 +222,7 @@ export default function AP(){
             <label className="flex items-center justify-center w-full text-navy text-2xl mt-20" htmlFor="course">Course:</label>
 
             <select name="course" id="course" className='block w-full py-2.5 text-lg text-white bg-transparent border-0 border-b-2 border-gray-200 appearance-none dark:text-gray-400 dark:border-gray-700 focus:outline-none focus:ring-0 focus:border-gray-200 peer'>
-                <option selected>Choose a class</option>
+                <option defaultValue={""}>Choose a class</option>
                 <option value="ap-biology">AP Biology</option>
                 <option value="ap-calculus-ab">AP Calculus AB</option>
                 <option value="ap-calculus-bc">AP Calculus BC</option>

@@ -8,7 +8,7 @@ import Logo from "./Logo";
 
 const Navbar = () => {
   const links = [
-    { name: 'Stats', href: '/stats'},
+    { name: 'Stats', href: '/Stats'},
     { name: 'AP', href: '/AP'},
     { name: 'SAT', href: '/SAT' },
     { name: 'Home', href: '/'},
