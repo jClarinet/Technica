@@ -1,5 +1,9 @@
-import Navigation from "./components/navigation/navbar";
+import Navbar from "./components/navigation/navbar";
 import { Inter } from "next/font/google";
+
+
+
+
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -15,8 +19,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
-        <Navigation />
+      <body className={inter.className} >
+        <Navbar />
         {children}
       </body>
     </html>

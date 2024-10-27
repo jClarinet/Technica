@@ -1,0 +1,821 @@
+{
+    "questions": {
+      "ap-english-language-composition": [
+        {
+          "question": "Which of the following best describes the primary purpose of the rhetorical situation?",
+          "options": {
+            "A": "To analyze a text's literary elements.",
+            "B": "To create a visual representation of ideas.",
+            "C": "To understand the relationship among the speaker, audience, and purpose.",
+            "D": "To evaluate the historical context of a text."
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "What is ethos in rhetorical analysis?",
+          "options": {
+            "A": "The emotional appeal to the audience.",
+            "B": "The ethical appeal or credibility of the speaker.",
+            "C": "The logical structure of the argument.",
+            "D": "The narrative style of the text."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "In what type of writing is a thesis statement most commonly found?",
+          "options": {
+            "A": "Narrative writing",
+            "B": "Descriptive writing",
+            "C": "Persuasive writing",
+            "D": "Expository writing"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Which of the following is an example of a logical fallacy?",
+          "options": {
+            "A": "Ad hominem",
+            "B": "Anecdotal evidence",
+            "C": "Bandwagon appeal",
+            "D": "All of the above"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "What is the main focus of a literary analysis essay?",
+          "options": {
+            "A": "The author's biography",
+            "B": "The plot summary",
+            "C": "The themes and literary devices used",
+            "D": "The reader's personal opinion"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Which type of evidence is most effective in persuasive writing?",
+          "options": {
+            "A": "Personal anecdotes",
+            "B": "Statistical data",
+            "C": "Emotional appeals",
+            "D": "Generalizations"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What is the role of the counterargument in an argumentative essay?",
+          "options": {
+            "A": "To strengthen the author's argument",
+            "B": "To weaken the opposing viewpoint",
+            "C": "To present an alternative perspective",
+            "D": "To distract the reader from the main argument"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Which of the following is NOT a characteristic of academic writing?",
+          "options": {
+            "A": "Formal tone",
+            "B": "Use of first-person perspective",
+            "C": "Citations and references",
+            "D": "Clear structure"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What does the term 'audience' refer to in writing?",
+          "options": {
+            "A": "The main character of the text",
+            "B": "The intended readers of the text",
+            "C": "The author's purpose for writing",
+            "D": "The themes presented in the text"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Which rhetorical device uses repetition for emphasis?",
+          "options": {
+            "A": "Metaphor",
+            "B": "Anaphora",
+            "C": "Alliteration",
+            "D": "Irony"
+          },
+          "correctAnswer": "B"
+        }
+      ],
+      "ap-english-literature-composition": [
+        {
+          "question": "What is the primary focus of a literary analysis?",
+          "options": {
+            "A": "Summarizing the plot",
+            "B": "Analyzing themes and literary devices",
+            "C": "Describing the author's biography",
+            "D": "Critiquing the author's writing style"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What is a common theme in many of Shakespeare's plays?",
+          "options": {
+            "A": "Technology vs. Nature",
+            "B": "Love and betrayal",
+            "C": "Social media influence",
+            "D": "The importance of family"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "In literature, what is 'imagery'?",
+          "options": {
+            "A": "The main idea of a story",
+            "B": "Language that appeals to the senses",
+            "C": "The chronological order of events",
+            "D": "A type of poetry"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What is the significance of a 'symbol' in a literary work?",
+          "options": {
+            "A": "It represents a larger idea or concept.",
+            "B": "It provides a physical description.",
+            "C": "It is the main character of the story.",
+            "D": "It is an event that takes place."
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What is the effect of a first-person narrative?",
+          "options": {
+            "A": "It offers multiple perspectives.",
+            "B": "It allows readers to connect with the narrator's thoughts and feelings.",
+            "C": "It creates a detached tone.",
+            "D": "It obscures the author's voice."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Which of the following is an example of a tragic hero?",
+          "options": {
+            "A": "A character who faces no challenges.",
+            "B": "A character who learns from their mistakes.",
+            "C": "A character of noble stature who experiences downfall.",
+            "D": "A character who is always successful."
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "What does 'tone' refer to in a literary work?",
+          "options": {
+            "A": "The author's attitude toward the subject matter.",
+            "B": "The main character's personality.",
+            "C": "The setting of the story.",
+            "D": "The plot's conflict."
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Which of the following is a characteristic of Romantic literature?",
+          "options": {
+            "A": "Emphasis on reason and logic.",
+            "B": "Focus on individual experience and emotion.",
+            "C": "Strict adherence to classical forms.",
+            "D": "Minimization of nature's beauty."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What is a 'motif' in literature?",
+          "options": {
+            "A": "A recurring theme or symbol.",
+            "B": "The primary conflict of the story.",
+            "C": "The final resolution of the plot.",
+            "D": "The introduction of characters."
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What literary device is characterized by the use of extreme exaggeration?",
+          "options": {
+            "A": "Metaphor",
+            "B": "Hyperbole",
+            "C": "Simile",
+            "D": "Oxymoron"
+          },
+          "correctAnswer": "B"
+        }
+      ],
+      "ap-african-american-studies": [
+        {
+          "question": "Who was the first African American to win the Nobel Prize in Literature?",
+          "options": {
+            "A": "Ralph Ellison",
+            "B": "Toni Morrison",
+            "C": "James Baldwin",
+            "D": "Langston Hughes"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Which movement sought to empower African Americans through education and self-help?",
+          "options": {
+            "A": "The Harlem Renaissance",
+            "B": "The Civil Rights Movement",
+            "C": "The Black Power Movement",
+            "D": "The Great Migration"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What was the purpose of the NAACP when it was founded?",
+          "options": {
+            "A": "To promote African American literature.",
+            "B": "To fight for civil rights and combat racial discrimination.",
+            "C": "To provide educational opportunities.",
+            "D": "To promote African American art."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Who is known for the phrase 'Black is Beautiful'?",
+          "options": {
+            "A": "Stokely Carmichael",
+            "B": "Angela Davis",
+            "C": "James Brown",
+            "D": "Malcolm X"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "What is the significance of the Brown v. Board of Education decision?",
+          "options": {
+            "A": "It ended segregation in public schools.",
+            "B": "It granted voting rights to African Americans.",
+            "C": "It established affirmative action.",
+            "D": "It recognized civil rights for all."
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Which African American author wrote 'Invisible Man'?",
+          "options": {
+            "A": "Ralph Ellison",
+            "B": "Zora Neale Hurston",
+            "C": "Richard Wright",
+            "D": "Toni Morrison"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What was the primary aim of the Civil Rights Movement in the 1960s?",
+          "options": {
+            "A": "To promote Black nationalism.",
+            "B": "To end racial segregation and discrimination.",
+            "C": "To establish economic independence.",
+            "D": "To promote African American culture."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Which event is considered a turning point in the Civil Rights Movement?",
+          "options": {
+            "A": "The Montgomery Bus Boycott",
+            "B": "The Emancipation Proclamation",
+            "C": "The Great Migration",
+            "D": "The Harlem Renaissance"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Who was the prominent leader of the Southern Christian Leadership Conference (SCLC)?",
+          "options": {
+            "A": "Malcolm X",
+            "B": "Martin Luther King Jr.",
+            "C": "Rosa Parks",
+            "D": "Frederick Douglass"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What does the term 'Afrocentrism' refer to?",
+          "options": {
+            "A": "A focus on European history.",
+            "B": "The practice of using African cultural references.",
+            "C": "A movement promoting African American rights.",
+            "D": "The study of ancient Egyptian civilization."
+          },
+          "correctAnswer": "B"
+        }
+      ],
+      "ap-comparative-government-politics": [
+        {
+          "question": "What is the primary purpose of a comparative government study?",
+          "options": {
+            "A": "To analyze economic systems.",
+            "B": "To evaluate different political systems and their effects.",
+            "C": "To promote nationalism.",
+            "D": "To summarize historical events."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Which of the following is an example of a federal system of government?",
+          "options": {
+            "A": "United Kingdom",
+            "B": "Canada",
+            "C": "France",
+            "D": "China"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What is the significance of the rule of law in a democracy?",
+          "options": {
+            "A": "It ensures that leaders are above the law.",
+            "B": "It establishes a system of checks and balances.",
+            "C": "It guarantees equality before the law for all citizens.",
+            "D": "It promotes economic growth."
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Which term refers to the process of citizens voting directly on laws?",
+          "options": {
+            "A": "Referendum",
+            "B": "Initiative",
+            "C": "Recall",
+            "D": "Plebiscite"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What is a key characteristic of a parliamentary system?",
+          "options": {
+            "A": "Separation of powers",
+            "B": "Fusion of executive and legislative branches",
+            "C": "Independent judiciary",
+            "D": "Direct elections of the head of state"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What is a common outcome of political socialization?",
+          "options": {
+            "A": "Formation of political parties",
+            "B": "Public apathy towards politics",
+            "C": "Development of individual political beliefs",
+            "D": "Reduction in voting turnout"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Which of the following best describes authoritarianism?",
+          "options": {
+            "A": "Government controls all aspects of life.",
+            "B": "Government is elected through free and fair elections.",
+            "C": "Government has limited power.",
+            "D": "Government promotes civil liberties."
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What does the term 'civil society' refer to?",
+          "options": {
+            "A": "Government agencies and institutions",
+            "B": "Organizations that promote political participation",
+            "C": "The military and police forces",
+            "D": "Political parties and campaigns"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Which of the following is a key component of globalization?",
+          "options": {
+            "A": "Isolationism",
+            "B": "Interdependence among countries",
+            "C": "National sovereignty",
+            "D": "Cultural homogeneity"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Which concept describes the ability of citizens to influence government policy?",
+          "options": {
+            "A": "Political efficacy",
+            "B": "Political culture",
+            "C": "Political socialization",
+            "D": "Political participation"
+          },
+          "correctAnswer": "A"
+        }
+      ],
+      "ap-european-history": [
+        {
+          "question": "What was the primary cause of World War I?",
+          "options": {
+            "A": "Economic recession",
+            "B": "Alliances and militarism",
+            "C": "Colonial disputes",
+            "D": "Nationalism"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Who was the leader of the Soviet Union during World War II?",
+          "options": {
+            "A": "Joseph Stalin",
+            "B": "Leon Trotsky",
+            "C": "Vladimir Lenin",
+            "D": "Nikita Khrushchev"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What was the significance of the Treaty of Versailles?",
+          "options": {
+            "A": "It ended World War I.",
+            "B": "It marked the beginning of World War II.",
+            "C": "It established the United Nations.",
+            "D": "It unified Germany."
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Which event sparked the French Revolution?",
+          "options": {
+            "A": "The execution of Louis XVI",
+            "B": "The storming of the Bastille",
+            "C": "The publication of the Declaration of the Rights of Man",
+            "D": "The Estates-General meeting"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What was the main goal of the Protestant Reformation?",
+          "options": {
+            "A": "To end the Catholic Church's influence",
+            "B": "To unify Europe under one religion",
+            "C": "To promote scientific discovery",
+            "D": "To establish feudalism"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Which philosophy emphasizes reason and individualism?",
+          "options": {
+            "A": "Rationalism",
+            "B": "Romanticism",
+            "C": "Baroque",
+            "D": "Socialism"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What was the primary purpose of the League of Nations?",
+          "options": {
+            "A": "To promote military alliances",
+            "B": "To prevent future wars",
+            "C": "To manage colonial territories",
+            "D": "To oversee economic trade"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Which country was known for its policy of appeasement prior to World War II?",
+          "options": {
+            "A": "Germany",
+            "B": "Italy",
+            "C": "Britain",
+            "D": "France"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "What was the main consequence of the Industrial Revolution?",
+          "options": {
+            "A": "Decreased urbanization",
+            "B": "Rise of factory systems",
+            "C": "Less production of goods",
+            "D": "Decline in population"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What event led to the unification of Germany?",
+          "options": {
+            "A": "World War I",
+            "B": "The Franco-Prussian War",
+            "C": "The Treaty of Versailles",
+            "D": "The Berlin Conference"
+          },
+          "correctAnswer": "B"
+        }
+      ],
+      "ap-human-geography": [
+        {
+          "question": "What is the study of population distribution and density called?",
+          "options": {
+            "A": "Urban geography",
+            "B": "Cultural geography",
+            "C": "Population geography",
+            "D": "Economic geography"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Which term refers to the movement of people from rural to urban areas?",
+          "options": {
+            "A": "Urbanization",
+            "B": "Suburbanization",
+            "C": "Metropolitanization",
+            "D": "Migration"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What is the primary focus of cultural geography?",
+          "options": {
+            "A": "The physical features of the Earth",
+            "B": "The impact of culture on space and place",
+            "C": "The economic activities of a region",
+            "D": "Population trends"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Which of the following best describes globalization?",
+          "options": {
+            "A": "The isolation of countries",
+            "B": "The interconnectedness of cultures and economies",
+            "C": "The growth of local traditions",
+            "D": "The decline of international trade"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What is the term for a geographic area defined by its unique cultural characteristics?",
+          "options": {
+            "A": "Region",
+            "B": "Site",
+            "C": "Situation",
+            "D": "Locale"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Which theory explains the patterns of agricultural land use?",
+          "options": {
+            "A": "Central Place Theory",
+            "B": "Rural-Urban Fringe Model",
+            "C": "Von Thünen Model",
+            "D": "Demographic Transition Model"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "What is the significance of language in culture?",
+          "options": {
+            "A": "It serves as the only means of communication.",
+            "B": "It shapes cultural identity and social cohesion.",
+            "C": "It has no impact on culture.",
+            "D": "It is secondary to religion."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Which concept refers to the belief in the superiority of one's own culture?",
+          "options": {
+            "A": "Cultural relativism",
+            "B": "Cultural diffusion",
+            "C": "Ethnocentrism",
+            "D": "Cultural assimilation"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "What is the term for the spread of cultural beliefs and social activities from one group to another?",
+          "options": {
+            "A": "Cultural diffusion",
+            "B": "Cultural convergence",
+            "C": "Cultural divergence",
+            "D": "Cultural appropriation"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What is an example of a pull factor in migration?",
+          "options": {
+            "A": "War",
+            "B": "Job opportunities",
+            "C": "Natural disasters",
+            "D": "Persecution"
+          },
+          "correctAnswer": "B"
+        }
+      ],
+      "ap-macroeconomics": [
+        {
+          "question": "What does GDP stand for?",
+          "options": {
+            "A": "Gross Domestic Product",
+            "B": "General Development Plan",
+            "C": "Global Demand Price",
+            "D": "Gross Development Profit"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What is the primary goal of monetary policy?",
+          "options": {
+            "A": "To control inflation and stabilize currency.",
+            "B": "To increase government spending.",
+            "C": "To decrease taxes.",
+            "D": "To promote trade."
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What is a recession?",
+          "options": {
+            "A": "A period of economic growth",
+            "B": "A sustained increase in prices",
+            "C": "A decline in GDP over two consecutive quarters",
+            "D": "A period of high employment"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Which of the following best describes inflation?",
+          "options": {
+            "A": "Increase in the overall level of prices.",
+            "B": "Decrease in consumer spending.",
+            "C": "Increase in unemployment rates.",
+            "D": "Decline in production."
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What is the purpose of fiscal policy?",
+          "options": {
+            "A": "To control the money supply.",
+            "B": "To regulate interest rates.",
+            "C": "To influence economic activity through government spending and taxation.",
+            "D": "To promote free trade."
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "What is the role of the central bank?",
+          "options": {
+            "A": "To provide loans to private businesses.",
+            "B": "To manage the nation's currency and monetary policy.",
+            "C": "To set tax rates.",
+            "D": "To regulate trade."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What does a production possibilities curve illustrate?",
+          "options": {
+            "A": "The maximum output combinations of two goods.",
+            "B": "The relationship between unemployment and inflation.",
+            "C": "The impact of tariffs on trade.",
+            "D": "The effect of monetary policy."
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Which economic indicator is commonly used to measure economic performance?",
+          "options": {
+            "A": "Unemployment rate",
+            "B": "Consumer confidence",
+            "C": "GDP growth rate",
+            "D": "Stock market performance"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "What is the effect of a high interest rate?",
+          "options": {
+            "A": "Increased consumer spending",
+            "B": "Decreased borrowing and spending",
+            "C": "Increased investment",
+            "D": "Increased inflation"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What is the main purpose of trade agreements?",
+          "options": {
+            "A": "To establish tariffs",
+            "B": "To promote international trade",
+            "C": "To restrict foreign investment",
+            "D": "To regulate exchange rates"
+          },
+          "correctAnswer": "B"
+        }
+      ],
+      "ap-microeconomics": [
+        {
+          "question": "What is the law of demand?",
+          "options": {
+            "A": "As prices increase, quantity demanded decreases.",
+            "B": "As prices decrease, quantity demanded decreases.",
+            "C": "Price and quantity demanded are unrelated.",
+            "D": "Demand is constant regardless of price."
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What does elasticity measure?",
+          "options": {
+            "A": "The responsiveness of quantity demanded to price changes.",
+            "B": "The total market supply.",
+            "C": "The level of competition in a market.",
+            "D": "The government's impact on the market."
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What is a monopoly?",
+          "options": {
+            "A": "A market structure with many sellers.",
+            "B": "A market structure with one seller.",
+            "C": "A competitive market with few barriers to entry.",
+            "D": "A market with many buyers."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What is the purpose of price floors?",
+          "options": {
+            "A": "To increase demand.",
+            "B": "To protect consumers from high prices.",
+            "C": "To ensure sellers receive a minimum price.",
+            "D": "To decrease supply."
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "What is the main characteristic of perfect competition?",
+          "options": {
+            "A": "Many sellers and free entry/exit in the market.",
+            "B": "A single seller controls the market.",
+            "C": "Differentiated products.",
+            "D": "Significant barriers to entry."
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What does a demand curve illustrate?",
+          "options": {
+            "A": "The relationship between price and quantity demanded.",
+            "B": "The relationship between price and supply.",
+            "C": "The overall market equilibrium.",
+            "D": "The level of consumer income."
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What is the concept of opportunity cost?",
+          "options": {
+            "A": "The cost of producing one additional unit.",
+            "B": "The value of the next best alternative foregone.",
+            "C": "The total cost of all resources used.",
+            "D": "The cost of fixed resources."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Which market structure is characterized by a few large firms?",
+          "options": {
+            "A": "Perfect competition",
+            "B": "Monopoly",
+            "C": "Oligopoly",
+            "D": "Monopolistic competition"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "What does the concept of marginal utility refer to?",
+          "options": {
+            "A": "The total satisfaction from consuming goods.",
+            "B": "The additional satisfaction from consuming one more unit of a good.",
+            "C": "The overall demand in the market.",
+            "D": "The satisfaction of the seller."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What is the role of competition in a market economy?",
+          "options": {
+            "A": "To increase prices for consumers.",
+            "B": "To reduce efficiency.",
+            "C": "To drive innovation and improve products.",
+            "D": "To create monopolies."
+          },
+          "correctAnswer": "C"
+        }
+      ]
+    }
+  }
+  
